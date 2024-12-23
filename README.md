@@ -6,7 +6,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fatma-Elzeny&label=Profile%20views&color=0e75b6&style=flat" alt="fatma-Elzeny" /> </p>
 
 
-- 🌱 I’m currently learning **I’m currently learning Embedded Systems**
+- 🌱 I’m currently learning **I’m currently learning Embedded Systems @9Months Training program provided by information Technology Insititute(ITI)**
 
 - 👨‍💻 All of my projects are available at [https://github.com/fatma-Elzeny/](https://github.com/fatma-Elzeny/)
 
